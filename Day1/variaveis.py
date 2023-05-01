@@ -1,5 +1,4 @@
-print("1-Criancando váriaveis e imprimindo uma frase com essas variáveis")
-
+print("1-Criando e imprimindo variáveis")
 nome = input("Escreva o seu nome: ")
 idade = input("Digite a sua idade: ")
 animal_estimacao = input("Digite o nome do seu animal de estimação: ")
